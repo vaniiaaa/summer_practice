@@ -1,0 +1,3 @@
+[submodule "kontr_rab"]
+	path = kontr_rab
+	url = https://github.com/vaniiaaa/QTableView
